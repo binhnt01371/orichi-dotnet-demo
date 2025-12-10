@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "orichi-dotnet-demo": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
