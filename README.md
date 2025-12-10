@@ -1,0 +1,3 @@
+- Khởi tạo class cho object và khởi tạo array với dữ liệu ngẫu nhiên.
+- Sắp xếp mảng đó theo thứ tự điểm trung bình các môn giảm dần, với các object có điểm trung bình bằng nhau, sắp xếp theo “name” với alphabel tăng dần. (Không sử dụng hàm sort/order hay thư viện ngoài)
+- Với mảng đã sắp xếp, hãy tìm ra nhanh nhất có thể object có điểm trung bình bằng 8.
